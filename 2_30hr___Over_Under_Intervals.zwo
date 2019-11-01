@@ -1,0 +1,41 @@
+<workout_file>
+    <author>C.Roberts (RAC CC)</author>
+    <name>186 TSS Long Ride</name>
+    <description>Intervals session designed to build some Strength and Aerobic Capacity by working for short periods above FTP, at FTP and a longer interval at Zone 3.  A Zone 2 interval is used as recovery to remove latic acid build up. 
+
+7:30 - Warm Up
+5 x {
+2:30 - Over @ 110% of FTP
+6:00 - Under 95% FTP
+5:00 - Recovery 75% FTP
+15:00 - Aerobic Tempo 81% FTP
+}
+ </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="450" PowerLow="0.2545" PowerHigh="0.75449997" pace="0"/>
+        <SteadyState Duration="150" Power="1.0944999" pace="0"/>
+        <SteadyState Duration="360" Power="0.95449996" pace="0"/>
+        <SteadyState Duration="300" Power="0.75449997" pace="0"/>
+        <SteadyState Duration="900" Power="0.81449997" pace="0"/>
+        <SteadyState Duration="150" Power="1.0944999" pace="0"/>
+        <SteadyState Duration="360" Power="0.94999999" pace="0"/>
+        <SteadyState Duration="900" Power="0.81449997" pace="0"/>
+        <SteadyState Duration="300" Power="0.75449997" pace="0"/>
+        <SteadyState Duration="150" Power="1.0944999" pace="0"/>
+        <SteadyState Duration="360" Power="0.95449996" pace="0"/>
+        <SteadyState Duration="900" Power="0.81449997" pace="0"/>
+        <SteadyState Duration="150" Power="1.0944999" pace="0"/>
+        <SteadyState Duration="300" Power="0.75449997" pace="0"/>
+        <SteadyState Duration="360" Power="0.95449996" pace="0"/>
+        <SteadyState Duration="900" Power="0.81449997" pace="0"/>
+        <SteadyState Duration="150" Power="1.0944999" pace="0"/>
+        <SteadyState Duration="300" Power="0.75449997" pace="0"/>
+        <SteadyState Duration="360" Power="0.94999999" pace="0"/>
+        <SteadyState Duration="900" Power="0.81449997" pace="0"/>
+        <Cooldown Duration="300" PowerLow="0.75449997" PowerHigh="0.2545" pace="0"/>
+    </workout>
+</workout_file>

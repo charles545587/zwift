@@ -1,0 +1,15 @@
+<workout_file>
+    <author>C.Roberts (RAC CC)</author>
+    <name>96 TSS Recovery</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="RECOVERY"/>
+        <tag name="90min"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.2545" PowerHigh="0.75449997" pace="0"/>
+        <IntervalsT Repeat="3" OnDuration="200" OffDuration="1200" OnPower="0.75449997" OffPower="0.85449994" pace="0" OverUnder="1"/>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.2545" pace="0"/>
+    </workout>
+</workout_file>

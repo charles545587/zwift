@@ -1,0 +1,16 @@
+<workout_file>
+    <author>C.Roberts (RAC CC)</author>
+    <name>77  TSS Steady State</name>
+    <description>2 x Z4 at 95 % FTP</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <Warmup Duration="450" PowerLow="0.2545" PowerHigh="0.75449997" pace="0"/>
+        <SteadyState Duration="1200" Power="0.95449996" pace="0"/>
+        <SteadyState Duration="300" Power="0.65000004" pace="0"/>
+        <SteadyState Duration="1200" Power="0.95449996" pace="0"/>
+        <Cooldown Duration="450" PowerLow="0.75449997" PowerHigh="0.2545" pace="0"/>
+    </workout>
+</workout_file>

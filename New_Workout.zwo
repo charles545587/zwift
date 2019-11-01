@@ -1,0 +1,16 @@
+<workout_file>
+    <author>C.Roberts (RAC CC)</author>
+    <name>50 TSS - 35 min Intervals</name>
+    <description>50 TSS - 35 min</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.3545" PowerHigh="0.89449996" pace="0"/>
+        <SteadyState Duration="60" Power="1.25" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="270" OnPower="1.0445" OffPower="0.89449996" pace="0"/>
+        <SteadyState Duration="60" Power="1.25" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="270" OnPower="1.0445" OffPower="0.89449996" pace="0"/>
+        <SteadyState Duration="60" Power="1.2539523" pace="0"/>
+        <Cooldown Duration="300" PowerLow="0.89449996" PowerHigh="0.3545" pace="0"/>
+    </workout>
+</workout_file>
