@@ -1,12 +1,12 @@
 <workout_file>
     <author>C.Roberts (RAC CC)</author>
-    <name>79  TSS Intervals</name>
+    <name>85 TSS Intervals</name>
     <description>5:10 - Warm UP
 3 x {
    4:30 -Zone 4 - FTP Threshold
    2 x {
-      1:00 - Zone 5 - Over Threashold 110%
-      5:00 - Zone 3 - Aerobic Tempo 85%
+      2:00 - Zone 5 - Over Threashold 110%
+      4:00 - Zone 3 - Aerobic Tempo 85%
          }
        }
 
@@ -18,11 +18,11 @@
     <workout>
         <Warmup Duration="310" PowerLow="0.30450001" PowerHigh="0.75449997" pace="0"/>
         <SteadyState Duration="270" Power="0.95449996" pace="0"/>
-        <IntervalsT Repeat="2" OnDuration="60" OffDuration="300" OnPower="1.1044999" OffPower="0.86449993" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="120" OffDuration="240" OnPower="1.1044999" OffPower="0.86449993" pace="0"/>
         <SteadyState Duration="270" Power="0.95449996" pace="0"/>
-        <IntervalsT Repeat="2" OnDuration="60" OffDuration="300" OnPower="1.1044999" OffPower="0.86449993" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="120" OffDuration="240" OnPower="1.1044999" OffPower="0.86449993" pace="0"/>
         <SteadyState Duration="280" Power="0.95449996" pace="0"/>
-        <IntervalsT Repeat="2" OnDuration="60" OffDuration="300" OnPower="1.1044999" OffPower="0.86449993" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="120" OffDuration="240" OnPower="1.1044999" OffPower="0.86449993" pace="0"/>
         <Cooldown Duration="310" PowerLow="0.75449997" PowerHigh="0.30450001" pace="0"/>
     </workout>
 </workout_file>

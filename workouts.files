@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>95__TSS_Intervals.zwo</name>
+        <time>1572624789</time>
+        <guid>16252</guid>
+        <checksum>127</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>100_TSS_Intervals.zwo</name>
+        <time>1572624789</time>
+        <guid>32421</guid>
+        <checksum>12</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>New_Workout.zwo</name>
         <time>1572168244</time>
         <guid>3906</guid>
@@ -36,16 +50,16 @@
     </custom_file>
     <custom_file>
         <name>60_min__85__TSS__Intervals.zwo</name>
-        <time>1571560852</time>
-        <guid>16063</guid>
-        <checksum>128</checksum>
+        <time>1572624974</time>
+        <guid>7545</guid>
+        <checksum>26</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>60_min_Over_Under_Intervals.zwo</name>
-        <time>1571560843</time>
-        <guid>9357</guid>
-        <checksum>19</checksum>
+        <time>1572624974</time>
+        <guid>17267</guid>
+        <checksum>166</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
