@@ -1,0 +1,19 @@
+<workout_file>
+    <author>C.Roberts</author>
+    <name>105 TSS FTP Raiser</name>
+    <description>60 min with 2 x 20 min FTP intervals</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="FTP"/>
+        <tag name="60min"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.3545" PowerHigh="1.0944999" pace="4"/>
+        <IntervalsT Repeat="2" OnDuration="1200" OffDuration="150" OnPower="1.1044999" OffPower="0.75449997" pace="4">
+            <textevent timeoffset="598.99988" message="Keep going!"/>
+            <textevent timeoffset="2471" message="Come On!"/>
+            <textevent timeoffset="1140" message=""/>
+        </IntervalsT>
+        <Cooldown Duration="300" PowerLow="0.75449997" PowerHigh="0.25449997" pace="4"/>
+    </workout>
+</workout_file>
