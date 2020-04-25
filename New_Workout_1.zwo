@@ -1,0 +1,12 @@
+<workout_file>
+    <author>C.Roberts (RAC CC)</author>
+    <name>TSS 160 - 1:38 Intervals</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.36776647" PowerHigh="0.96675128" pace="0"/>
+        <IntervalsT Repeat="11" OnDuration="300" OffDuration="150" OnPower="0.95152283" OffPower="1.1291878" pace="0"/>
+        <Cooldown Duration="360" PowerLow="0.94644666" PowerHigh="0.25101525" pace="0"/>
+    </workout>
+</workout_file>

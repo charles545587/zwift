@@ -1,0 +1,67 @@
+<workout_file>
+	<author>Rob Atkinson (via TrainingPeaks)</author>
+	<name>Cruise intervals</name>
+	<description>This workout intensity varies between 90 - 110% of your FTP. Keep focussed on good form &amp; ensure cadence is smooth &amp; consistent.</description>
+	<sportType>bike</sportType>
+	<tags/>
+	<workout>
+		<SteadyState Duration="180" Power="0.5">
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.6">
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.65">
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.8">
+		</SteadyState>
+		<SteadyState Duration="60" Power="1.1">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.5">
+		</SteadyState>
+		<SteadyState Duration="240" Power="0.9">
+		</SteadyState>
+		<SteadyState Duration="180" Power="0.5">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.9">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.97">
+		</SteadyState>
+		<SteadyState Duration="120" Power="1.04">
+		</SteadyState>
+		<SteadyState Duration="120" Power="1.1">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.5">
+		</SteadyState>
+		<SteadyState Duration="120" Power="1.1">
+		</SteadyState>
+		<SteadyState Duration="120" Power="1.04">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.97">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.9">
+		</SteadyState>
+		<SteadyState Duration="240" Power="0.5">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.9">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.97">
+		</SteadyState>
+		<SteadyState Duration="120" Power="1.04">
+		</SteadyState>
+		<SteadyState Duration="120" Power="1.1">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.5">
+		</SteadyState>
+		<SteadyState Duration="120" Power="1.1">
+		</SteadyState>
+		<SteadyState Duration="120" Power="1.04">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.97">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.9">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.5">
+		</SteadyState>
+		<Cooldown Duration="120" PowerHigh="0.4" PowerLow="0.6">
+		</Cooldown>
+	</workout>
+</workout_file>

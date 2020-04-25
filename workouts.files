@@ -1,5 +1,40 @@
 <custom_file_directory>
     <custom_file>
+        <name>78_TSS___90_min_endurance.zwo</name>
+        <time>1586278496</time>
+        <guid>16079</guid>
+        <checksum>126</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>2020-03-31_Cruiseinte.zwo.xml</name>
+        <time>0</time>
+        <guid>3532</guid>
+        <checksum>135</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>98_TSS_Intervals.zwo</name>
+        <time>1583260070</time>
+        <guid>9893</guid>
+        <checksum>209</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>186_TSS_Long_Ride.zwo</name>
+        <time>1577016573</time>
+        <guid>6271</guid>
+        <checksum>46</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>New_Workout_1.zwo</name>
+        <time>1573906573</time>
+        <guid>1434</guid>
+        <checksum>26</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>105_TSS_FTP_Raiser.zwo</name>
         <time>1572716330</time>
         <guid>30215</guid>

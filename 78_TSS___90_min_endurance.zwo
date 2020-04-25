@@ -1,0 +1,12 @@
+<workout_file>
+    <author>C.Roberts (married 2 a Vegan)</author>
+    <name>78 TSS - 90 min endurance</name>
+    <description>90 min endurance ride</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="900" PowerLow="0.2545" PowerHigh="0.65449995" pace="0"/>
+        <SteadyState Duration="3600" Power="0.65449995" pace="0"/>
+        <Cooldown Duration="900" PowerLow="0.65449995" PowerHigh="0.2545" pace="0"/>
+    </workout>
+</workout_file>
